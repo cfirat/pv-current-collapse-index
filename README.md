@@ -62,11 +62,8 @@ outputs/
         Condition-level statistics by module and surface state.
 
     table2_correlation.csv
-        Correlation and linear-fit statistics between \(R_I\) and \(\eta_{rel,raw}\).
+        Correlation and linear-fit statistics between (R_I) and (eta_rel,raw).
 
     figures/
         Final manuscript figures in PNG format.
 
-manuscript/
-    manuscript_improved.pdf
-        Manuscript PDF, if included.
