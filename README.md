@@ -14,9 +14,9 @@ Partial shading, non-uniform soiling, and mismatch-inducing surface conditions c
 
 This repository implements an I–V-curve-derived diagnostic based on the dimensionless current-collapse index:
 
-\[
-R_I = I_sc/{I_{sc,clean}
-\]
+\
+R_I = I_sc/I_sc,clean
+\
 
 where \(I_{sc}\) is the short-circuit current of a measured trace and \(I_{sc,clean}\) is the median clean short-circuit current for the same module.
 
