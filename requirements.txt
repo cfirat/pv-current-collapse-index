@@ -7,3 +7,22 @@ matplotlib
 scipy
 seaborn
 pyarrow
+
+How to reproduce the analysis
+
+Download the raw dataset from Mendeley Data:
+
+https://doi.org/10.17632/xjs42j8dtf.2
+
+Place the dataset in a local or Google Drive directory.
+Open:
+notebooks/study_iv_current_collapse_v2.ipynb
+Update the dataset path in the notebook if necessary.
+Run all cells.
+
+The notebook will generate:
+
+trace-level summary table,
+condition-level summary table,
+correlation table,
+six manuscript figures.
