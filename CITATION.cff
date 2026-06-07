@@ -1,40 +1,19 @@
-cff-version: 1.2.0
-title: "PV Current-Collapse Index"
-message: "If you use this repository, please cite the associated manuscript and this archived software release."
-type: software
+## Citation
 
-authors:
-  - family-names: "Firat"
-    given-names: "Coskun"
-    orcid: "https://orcid.org/0000-0002-2853-8940"
-    affiliation: "Energy Institute, Istanbul Technical University"
+If you use this repository, please cite the archived software release:
 
-repository-code: "https://github.com/coskunf1r6t/pv-current-collapse-index"
-url: "https://github.com/coskunf1r6t/pv-current-collapse-index"
+Fırat, C. (2026). **PV Current-Collapse Index** (v1.0.0). Zenodo.  
+https://doi.org/10.5281/zenodo.20583698
 
-abstract: >
-  Python notebook and processed outputs for an I–V-curve-derived
-  current-collapse index used to diagnose mismatch-induced instantaneous
-  efficiency degradation in photovoltaic modules.
+BibTeX:
 
-keywords:
-  - photovoltaic modules
-  - partial shading
-  - electrical mismatch
-  - current-collapse index
-  - I-V curve analysis
-  - fault diagnosis
-
-license: "MIT"
-version: "1.0.0"
-date-released: "2026-06-07"
-
-preferred-citation:
-  type: article
-  title: "A Current-Collapse Index for Diagnosing Mismatch-Induced Instantaneous Efficiency Degradation in Photovoltaic Modules"
-  authors:
-    - family-names: "Firat"
-      given-names: "Coskun"
-      orcid: "https://orcid.org/0000-0002-2853-8940"
-  year: 2026
-  notes: "Manuscript under submission"
+```bibtex
+@software{firat_2026_pv_current_collapse_index,
+  author       = {Fırat, Coşkun},
+  title        = {PV Current-Collapse Index},
+  version      = {v1.0.0},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20583698},
+  url          = {https://doi.org/10.5281/zenodo.20583698}
+}
