@@ -1,0 +1,9 @@
+The analysis was developed in Python using common scientific packages:
+
+python >= 3.9
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+pyarrow
