@@ -14,13 +14,11 @@ Partial shading, non-uniform soiling, and mismatch-inducing surface conditions c
 
 This repository implements an I–V-curve-derived diagnostic based on the dimensionless current-collapse index:
 
-\
 R_I = I_sc/I_sc,clean
-\
 
-where \(I_{sc}\) is the short-circuit current of a measured trace and \(I_{sc,clean}\) is the median clean short-circuit current for the same module.
+where (I_sc) is the short-circuit current of a measured trace and (I_sc,clean) is the median clean short-circuit current for the same module.
 
-The analysis evaluates whether \(R_I\) can distinguish mild optical attenuation from mismatch-dominated current collapse using publicly available experimental I–V data for two crystalline-silicon PV modules measured under clean, soiled, and partially shaded conditions.
+The analysis evaluates whether (R_I) can distinguish mild optical attenuation from mismatch-dominated current collapse using publicly available experimental I–V data for two crystalline-silicon PV modules measured under clean, soiled, and partially shaded conditions.
 
 ## Main findings
 
@@ -29,11 +27,11 @@ The analysis shows that:
 - Partial shading reduced mean irradiance-normalized relative efficiency by approximately **73%** in the 30 W HYBRYTEC M5-30/12 module.
 - Partial shading reduced mean irradiance-normalized relative efficiency by approximately **84%** in the 90 W Solar Plus Energy SP090P module.
 - Across all 17 experimental I–V traces, the current-collapse index \(R_I\) strongly tracked the unclipped relative efficiency proxy:
-  - Pearson \(r = 0.984\)
-  - \(R^2 = 0.968\)
+  - Pearson (r = 0.984)
+  - (R^2 = 0.968)
   - fitted slope = 0.922
 - Fill factor remained relatively high, approximately **0.71–0.86** in shaded traces, even when most of the maximum power had been lost.
-- A threshold near \(R_I = 0.5\) separated clean and shaded traces in this dataset and identified an anomalous soiled trace as a current-collapse case.
+- A threshold near (R_I = 0.5) separated clean and shaded traces in this dataset and identified an anomalous soiled trace as a current-collapse case.
 
 The threshold is dataset-supported and should not be interpreted as a universal physical constant.
 
