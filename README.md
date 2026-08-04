@@ -1,5 +1,5 @@
 # PV Current-Collapse Index
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20583698.svg)](https://doi.org/10.5281/zenodo.20583698)
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20583698.svg)](https://doi.org/10.5281/zenodo.20583698)](https://doi.org/10.5281/zenodo.21795241)
 
 This repository contains the Python analysis notebook and processed outputs associated with the manuscript:
 
