@@ -1,1 +1,3 @@
-
+panel,reference_method,Phi_ref_direct_median_m2,Phi_ref_factor_consistent_m2,Phi_reference_difference_pct,Isc_per_G_ref,Isc_ref_A,Voc_ref_V,FF_ref,n_clean
+M5_30112,within-module clean medians; factor-consistent Phi reference,0.024677777777777778,0.02477427633777164,0.3910342368053789,0.0019161286919831223,1.76255,21.06,0.6139287004712745,3
+SP090P,within-module clean medians; factor-consistent Phi reference,0.0772775991425509,0.07618918225321919,1.408450704225367,0.005364619506966773,5.02541,21.0,0.6762933127057307,3
