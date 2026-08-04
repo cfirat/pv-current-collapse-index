@@ -1,0 +1,2 @@
+index,max_shaded,min_clean,observed_gap_exists,descriptive_separating_interval,illustrative_threshold,threshold_is_inside_gap
+R_I_G,0.24306235796091347,0.9860727785611169,True,"(0.243062, 0.986073]",0.5,True
